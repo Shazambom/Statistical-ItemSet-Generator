@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="StatisticalItemSetGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/StatisticalItemSetGenerator</output-path>
+    <root id="root">
+      <element id="archive" name="StatisticalItemSetGenerator.jar">
+        <element id="module-output" name="StatisticalItemSetGenerator" />
+      </element>
+    </root>
+  </artifact>
+</component>
