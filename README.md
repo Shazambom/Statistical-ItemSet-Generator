@@ -2,7 +2,7 @@ Hello Riot,
 
 big fan of your game. Anyways, down to buisness.
 This app is entierly written in java so it actually does not use your API at all; however, it is an interesting program 
-that involves item sets and attempts to involve the LoL community. See: <a href="shazambom.com">my community website</a>. 
+that uses item sets and attempts to involve the LoL community. See: <a href="shazambom.com">my community website</a>. 
 The app is relatively simple to use. It is a javafx program so simply run it and a prompt box will pop up for the user.
 
 Within this git repo under out/artifacts/StatisticalItemSetGenerator/ there is a .jar file that can be run. The first text
